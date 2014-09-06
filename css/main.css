@@ -44,7 +44,7 @@ h4{
 }
 
 a {
-  color: #c52d2f;
+  color: #3686be;
   -webkit-transition: color 300ms, background-color 300ms;
   -moz-transition: color 300ms, background-color 300ms;
   -o-transition:  color 300ms, background-color 300ms;
@@ -63,7 +63,7 @@ hr {
 
 .btn-primary {
   padding: 8px 20px;
-  background: #c52d2f;
+  background: #3686be;
   color: #fff;
   border-radius: 4px;
   border:none;
@@ -73,7 +73,6 @@ hr {
 
 .btn-primary:hover, 
 .btn-primary:focus{
-  background: #c52d2f;
   outline: none;
   box-shadow: none;
 } 
@@ -2008,12 +2007,12 @@ textarea#message{
 }
 
 .blog_category li a:hover{
-  background:#c52d2f;
+  background:#3686be;
   color: #fff;
 }
 
  .badge:before {
-  border-color: transparent transparent transparent #c52d2f;
+  border-color: transparent transparent transparent #3686be;
   border-style: solid;
   border-width: 10px;
   bottom: -8px;
@@ -2025,7 +2024,7 @@ textarea#message{
 }
 
 .badge {
-  background-color: #c52d2f;
+  background-color: #3686be;
   border-radius: 5px;
   color: #fff;
   padding: 8px;
@@ -2169,8 +2168,8 @@ ul.faq li > div h3 {
 }
 
 #publish_date {
-  background: #c52d2f;
-  border-bottom: 5px solid #4e4e4e;
+  background: #3686be;
+
   color: #fff;
   padding: 5px 0;
   text-align: center;
@@ -2202,8 +2201,8 @@ ul.pagination > li > a i{
 
 ul.pagination > li.active > a, 
 ul.pagination > li:hover > a {
-  background-color: #c52d2f !important;
-  border-color: #c52d2f !important;
+  background-color: #3686be !important;
+  border-color: #3686be !important;
   color: #fff;
 }
 

@@ -146,7 +146,7 @@
  <section id="partner">
         <div class="container">
             <div class="center wow fadeInDown">
-                <h2>Our Partners</h2>
+                <h2>Ellos confian en nosotros</h2>
                 <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
             </div>    
 
@@ -166,7 +166,7 @@
     <section id="recent-works">
         <div class="container">
             <div class="center wow fadeInDown">
-                <h2>Our Team</h2>
+                <h2>El Equipo</h2>
                 <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
             </div>
 
@@ -189,7 +189,7 @@
                         <img class="img-responsive" src="images/portfolio/recent/item2.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#">Business theme</a></h3>
+                                <h3><a href="#">Web Developer</a></h3>
                                 <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
                                 <a class="preview" href="images/portfolio/full/item2.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                             </div> 
@@ -202,7 +202,7 @@
                         <img class="img-responsive" src="images/portfolio/recent/item3.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#">Business theme </a></h3>
+                                <h3><a href="#">Graphic Design </a></h3>
                                 <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
                                 <a class="preview" href="images/portfolio/full/item3.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                             </div> 
@@ -215,7 +215,7 @@
                         <img class="img-responsive" src="images/portfolio/recent/item4.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#">Business theme </a></h3>
+                                <h3><a href="#">Comunity Manger  </a></h3>
                                 <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
                                 <a class="preview" href="images/portfolio/full/item4.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                             </div> 
@@ -281,7 +281,7 @@
     <section id="services" class="service-item">
 	   <div class="container">
             <div class="center wow fadeInDown">
-                <h2>Our Service</h2>
+                <h2>Lo que mejor hacemos</h2>
                 <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
             </div>
 
@@ -305,7 +305,7 @@
                             <img class="img-responsive" src="images/services/services2.png">
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading">SEO Marketing</h3>
+                            <h3 class="media-heading">SEM Marketing</h3>
                             <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
                         </div>
                     </div>
@@ -317,7 +317,7 @@
                             <img class="img-responsive" src="images/services/services3.png">
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading">SEO Marketing</h3>
+                            <h3 class="media-heading">Web Developing</h3>
                             <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
                         </div>
                     </div>
@@ -329,7 +329,7 @@
                             <img class="img-responsive" src="images/services/services4.png">
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading">SEO Marketing</h3>
+                            <h3 class="media-heading">Web Apps</h3>
                             <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
                         </div>
                     </div>
@@ -341,7 +341,7 @@
                             <img class="img-responsive" src="images/services/services5.png">
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading">SEO Marketing</h3>
+                            <h3 class="media-heading">Video</h3>
                             <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
                         </div>
                     </div>
@@ -353,7 +353,7 @@
                             <img class="img-responsive" src="images/services/services6.png">
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading">SEO Marketing</h3>
+                            <h3 class="media-heading">Social Networking</h3>
                             <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
                         </div>
                     </div>

@@ -650,8 +650,12 @@ input.search-form:hover {
 }
 
 #services {
-  background: #000 url(../images/services/bg_services.png);
+
+  background: #3686BE; 
   background-size: cover;
+  /*
+  background: #000 url(../images/services/bg_services.png);
+  background-size: cover; */
 }
 
 #services .lead,
@@ -661,7 +665,7 @@ input.search-form:hover {
 
 .services-wrap {
   padding: 40px 30px;
-  background: #fff;
+  background: rgba(255,255,255,.3);
   border-radius: 4px;
   margin: 0 0 40px;
 }
@@ -669,6 +673,11 @@ input.search-form:hover {
 .services-wrap h3 {
   font-size: 20px;
   margin: 10px 0;
+  color: white;
+}
+.services-wrap p {
+  
+  color: white;
 }
 
 .services-wrap .pull-left {

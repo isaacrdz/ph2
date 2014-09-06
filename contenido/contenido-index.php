@@ -288,13 +288,13 @@
             <div class="row">
 
                 <div class="col-sm-6 col-md-4">
-                    <div class="media services-wrap wow fadeInDown">
+                    <div class="media services-wrap  wow fadeInDown">
                         <div class="pull-left">
                             <img class="img-responsive" src="images/services/services1.png">
                         </div>
                         <div class="media-body">
                             <h3 class="media-heading">SEO Marketing</h3>
-                            <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
+                            <p >Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
                         </div>
                     </div>
                 </div>

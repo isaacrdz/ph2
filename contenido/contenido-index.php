@@ -143,7 +143,7 @@
     </section><!--/#feature-->
 
 
- <section id="partner">
+ <section class="partner">
         <div class="container">
             <div class="center wow fadeInDown">
                 <h2>Ellos confian en nosotros</h2>

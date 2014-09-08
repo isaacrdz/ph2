@@ -954,18 +954,18 @@ a.accordion-toggle  i{
   border-bottom: 0 none;
 }
 
-#partner {
+.partner {
   background: url(../images/partners/partner_bg.png) 50% 50% no-repeat;
   background-size: cover;
 }
 
-#partner {
+.partner {
   color: #fff;
   text-align: center;
 }
 
-#partner h2, 
-#partner h3 {
+.partner h2, 
+.partner h3 {
   color: #fff;
 }
 

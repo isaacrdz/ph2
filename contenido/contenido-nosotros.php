@@ -52,7 +52,7 @@
 									<h4>Omar</h4>
 									<h5>Social Media Marketing</h5>
 									<ul class="tag clearfix">
-										<li class="btn"><a href="#">Web</a></li>
+										<li class="btn"><a href="#">Illustrator</a></li>
 										<li class="btn"><a href="#">Ui</a></li>
 										<li class="btn"><a href="#">Ux</a></li>
 										<li class="btn"><a href="#">Photoshop</a></li>

@@ -21,13 +21,13 @@
 									<a href="#"><img class="media-object" src="images/pp.jpg" alt=""></a>
 								</div>
 								<div class="media-body">
-									<h4>Jhon Doe</h4>
-									<h5>Founder and CEO</h5>
+									<h4>Zack</h4>
+									<h5>Web Developer</h5>
 									<ul class="tag clearfix">
 										<li class="btn"><a href="#">Web</a></li>
 										<li class="btn"><a href="#">Ui</a></li>
 										<li class="btn"><a href="#">Ux</a></li>
-										<li class="btn"><a href="#">Photoshop</a></li>
+										<li class="btn"><a href="#">Strategy</a></li>
 									</ul>
 									
 									<ul class="social_icons">

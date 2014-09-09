@@ -1235,7 +1235,7 @@ ul.social_icons li  a i{
   opacity:.8;
 }
 
-
+.team .social_icons .fa-github:hover, 
 .team .social_icons .fa-facebook:hover, 
 .team .social_icons .fa-twitter:hover, 
 .team .social_icons .fa-google-plus:hover {
@@ -1263,6 +1263,11 @@ ul.social_icons li  a i{
 .team .social_icons .fa-google-plus {
   background: #D34836
 }
+
+.team .social_icons .fa-github {
+  background: #222222 ;
+}
+
 
 
 .team-bar .first-one-arrow {

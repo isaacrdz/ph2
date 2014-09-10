@@ -1,3 +1,7 @@
+<? require_once 'comunes/config.php' ?>
+
+
+
 <header id="header">
         <div class="top-bar">
             <div class="container">

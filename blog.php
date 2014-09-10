@@ -10,7 +10,31 @@
  </head>
  <body>
  <? include "comunes/header.php" ?>
- <? include "contenido/contenido-blog.php" ?>
+
+
+ <? 
+
+ if (isset($_GET['n'] )) {
+ 	include 'contenido/contenido-blog-solo.php';
+ }else{
+
+ 	include 'contenido/contenido-blog.php';
+ }
+
+ 	
+
+ ?>
+
+
+
+
+
+
+
+
+
+
+
  <? include "comunes/footer.php" ?>
  	
  </body>

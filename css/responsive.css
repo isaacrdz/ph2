@@ -291,12 +291,25 @@
   .post_reply_comments {
     padding-left: 20px;
   }
+
+  .logo
+  {
+    margin-left: 1em;
+    margin-bottom: .5em;
+  }
+
     
 
 }
 
 /* XS Portrait */
 @media (max-width: 480px) {
+
+  .logo
+  {
+    margin-left: 1em;
+    margin-bottom: .5em;
+  }
 
 
 }

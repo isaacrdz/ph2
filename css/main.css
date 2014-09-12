@@ -2237,6 +2237,7 @@ ul.sidebar-gallery {
 .tag-cloud li{
     display: inline-block;
     margin-bottom: 3px;
+    margin-left: 3px;
 }
 
 .tag-cloud li a {
@@ -2248,7 +2249,7 @@ ul.sidebar-gallery {
 }
 
 .tag-cloud li a:hover{
-  background:#c52d2f;
+  background:#3276B1;
   color: #fff;  
 }
 

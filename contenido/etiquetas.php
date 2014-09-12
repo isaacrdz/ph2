@@ -1,16 +1,22 @@
 
-
 <section id="blog" class="container">
+
         <div class="center">
             <h2>Este es nuestro Blog</h2>
             <p class="lead">Tambien no gusta bloggear de vez en cuando</p>
         </div>
-
         <div class="blog">
             <div class="row">
                  <div class="col-md-8">
 <?
-$sql = mysql_query("SELECT * FROM post ORDER BY id DESC ");
+$tag= intval((quitar($_GET['tag'])));
+$sql=mysql_query("SELECT * FROM post WHERE etiquetas = '$tag'");
+$n = mysql_num_rows($sql);
+if ($n == 0){
+    echo "Sin Resultados";
+}else{
+
+}
 while ($row = mysql_fetch_array($sql)){
 
 
@@ -51,6 +57,13 @@ while ($row = mysql_fetch_array($sql)){
                             </div>
                         </div>    
                     </div><!--/.blog-item-->
+
+
+<?
+}
+}
+?>
+
 
 
 <?

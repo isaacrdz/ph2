@@ -8,7 +8,10 @@
             <div class="row">
                 <div class="col-md-8">
 <?
-$id=$_GET['n'];
+$id=intval(quitar($_GET['n']));
+
+
+
 $sql = mysql_query("SELECT * FROM post WHERE id='$id'");
 $numero= mysql_num_rows($sql);
 if ($numero==0){
